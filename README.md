@@ -1,3 +1,4 @@
 # first-repository
 this is my first git repository.
-Author - khushboo khatoon
+<br>
+<i>Author - khushboo khatoon</i>
