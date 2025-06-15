@@ -1,4 +1,4 @@
-# first-repository
-<bold>This is my first git repository.</bold>
+# first-Repository
+<strong>This is my first git Repository.</strong>
 <br>
-<i>Author - khushboo khatoon</i>
+<i>Author - Khushboo Khatoon</i>
